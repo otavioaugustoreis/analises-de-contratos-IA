@@ -29,7 +29,7 @@ graph TD
   B --> C[(ChromaDB)]
   B --> D[(Redis)]
   A --> E[(SQL Server)]
-
+````
 ## 📦 Componentes Principais
 
 ### **Camada .NET (C#)**
@@ -65,3 +65,4 @@ python service/main.py
 
 # API .NET
 dotnet run --project LegalInsight.API
+
